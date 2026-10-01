@@ -1,0 +1,6 @@
+interface:
+  display_name: "Multi-Camera Video Prompt"
+  short_description: "将视频创意整理成连续、可执行的多机位生成提示词"
+  default_prompt: "Use $multi-camera-video-prompt to turn my video idea into a coherent multi-camera generation prompt."
+policy:
+  allow_implicit_invocation: true
